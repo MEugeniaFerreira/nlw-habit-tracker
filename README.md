@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é uma alicação para ajudar no controle de hábitos.
 
-<!-- - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks) -->
+- [Acesse o projeto finalizado, online](https://meugeniaferreira.github.io/nlw-habit-tracker/)
 
 
 ## 🔖 Layout
