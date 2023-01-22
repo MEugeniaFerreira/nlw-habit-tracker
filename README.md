@@ -31,7 +31,7 @@ O Habits é uma alicação para ajudar no controle de hábitos.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/1s5WTxVUeKrjOnmSMkLOkm/Habits-(e)-(Community)?node-id=6%3A910). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
